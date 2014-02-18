@@ -12,13 +12,13 @@ Phone: 185 1610 8950
 Blog: [http://coderworm.com/categories.html](http://coderworm.com/categories.html)  
 
 ### Person Details:
-  12年进入 51.com 基础架构部工作。至 13年 8 月在基础架构部负责 51.com 中间层的开发及维护工作。平时的工作平台都是基于 linux，所以懂 Linux 下常用的命令，开发工具(vim)以及一些常用系统监控状态命令,如：top, pstack, strace,free 等等。
+  12年进入 51.com 基础架构部工作。至 13年 8 月在基础架构部负责 51.com 中间层的开发及维护工作。平时的工作平台都是基于 linux，所以懂 Linux 下常用的命令，开发工具(vim)以及一些常用系统监控状态命令,如：top, pstack, strace,free 等等。  
   了解常规的网站/后台系统分布式架构方案，如分布式缓存，业务处理模块，代理中间件（webproxy / dbproxy / nosqlproxy）; 
-  数据库分库分表设计方案(用户资料存储)；用户认证系统（登陆/注册业务） 。  
-  熟悉 linux 下 c/c++编程；tcp 网络编程，常用网络编程模型Reactor；熟悉 linux 下轻量级线程(协程)的原理及实现方式及调度原理
-  。了解基于事件驱动的方式下协程调度器的实现。  
-  13 年 8 月至今，内部转岗从事页游项目开发(13 年 12 月底上线)，进行游戏服务器逻辑的开发工作。  
-  会使用 mysql, oracle 数据库及一些基础的 sql 操作。  
+  数据库分库分表设计方案(用户资料存储)；用户认证系统（登陆/注册业务） 。    
+  熟悉 linux 下 c/c++编程；tcp 网络编程，常用网络编程模型Reactor；熟悉 linux 下轻量级线程(协程)的原理及实现方式及调度原理。    
+  了解基于事件驱动的方式下协程调度器的实现。    
+  13 年 8 月至今，内部转岗从事页游项目开发(13 年 12 月底上线)，进行游戏服务器逻辑的开发工作。    
+  会使用 mysql, oracle 数据库及一些基础的 sql 操作。    
   熟悉基于 github 的项目版本管理，能熟练使用 github；开发工具习惯使用 vim。    
   除 c/c++之外，还学习并使用过 java，php，shell，awk，golang，能写一些小工具。    
   对服务器后端技术及高性能网络程序设计有浓厚兴趣。  
@@ -32,7 +32,8 @@ Blog: [http://coderworm.com/categories.html](http://coderworm.com/categories.htm
 ###### Project2: corosched 协程调度框架
 这个项目是近期发布在 github 上的一个开源项目，主要目的是采用 C 语言实现一个高
 性能的协程调度框架，主要特性包括：协程调度，协程的多线程运行，事件驱动，协程之间
-的消息通信， 异步 socket 操作。
+的消息通信， 异步 socket 操作。  
+[corosched](https://github.com/yuxingfirst/corosched)
 
 ###### Project3: webagent项目
 这是一个位于前端php模块和后端中间层之间的代理服务器，实现php模块对后端模块的透明访问，方便后端中间层系统的升级，维护等。采用多进程架构模型，主要特性包括:多种通信协议支持，后端服务的动态添加与减少，心跳机制等等。
