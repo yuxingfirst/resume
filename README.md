@@ -2,9 +2,9 @@
 ======
 
 ### Abount Me:
-熊景
-12 年 6 月毕业于湖南工程学院计算机系
-现居上海
+熊景  
+12 年 6 月毕业于湖南工程学院计算机系  
+现居上海  
 
 Email: yuxingfirst@gmail.com  
 Github: [https://github.com/yuxingfirst](https://github.com/yuxingfirst)  
