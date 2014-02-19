@@ -3,6 +3,7 @@
 
 ### Abount Me:
 熊景   
+毕业于湖南工程学院计算机系  
 现居上海  
 
 Email: yuxingfirst@gmail.com  
